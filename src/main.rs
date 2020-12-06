@@ -1,10 +1,10 @@
 #[macro_use]
 extern crate lazy_static;
 mod input;
-mod day4;
+mod day5;
 
 
 fn main() {
-    println!("{}", day4::question1());
-    println!("{}", day4::question2());
+    println!("{}", day5::question1());
+    println!("{}", day5::question2());
 }
