@@ -10,10 +10,12 @@ mod input;
 // mod day7;
 // mod day8;
 // mod day9;
-mod day10;
+// mod day10;
+mod day11;
+
 
 
 fn main() {
-    println!("{}", day10::question1());
-    println!("{}", day10::question2());
+    println!("{}", day11::question1());
+    println!("{}", day11::question2());
 }
